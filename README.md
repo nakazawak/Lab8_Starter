@@ -2,6 +2,7 @@
 
 Members: Koji Nakazawa
 
+https://nakazawak.github.io/Lab8_Starter/
 
 ## Graceful degradation and service workers
 
